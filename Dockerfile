@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "Bhasker Reddy" 
+Label R "Bhasker Reddy" 
 COPY ./webapp.war /usr/local/tomcat/webapps
