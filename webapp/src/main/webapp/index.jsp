@@ -1,3 +1,1 @@
-<h1> Hello, Welcome to DevOps Certification training Programme !!! </h1>
-<h2> Dockerizing Java application using Docker Container Runtime </h2>
-<h3> Enabled Continous Integration using GitHub Webhook </h3>
+<h1> Hello, Welcome to Docker's Online Training with Edureka !!! </h1>
